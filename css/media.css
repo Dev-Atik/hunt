@@ -1,0 +1,1275 @@
+/* ============================================================
+                     extra largr area start
+===============================================================*/
+@media(min-width: 1200px) and (max-width: 1399.99px) {
+
+    /* ------------------ about area start ------------------ */
+    .middle_about {
+        height: 310px;
+        width: 310px;
+    }
+
+    .about_img {
+        width: 275px;
+        height: 275px;
+    }
+
+    /* ------------------ about area start ------------------ */
+    /* ------------- service area start ----------------------- */
+    #service .line img {
+        height: 828px;
+    }
+
+    .line {
+        top: 95px;
+    }
+
+    .top_btn {
+        top: 55px;
+    }
+
+    .bottom_btn {
+        bottom: -35px;
+    }
+
+    /* ------------- service area end ----------------------- */
+    /* ------------- team area start --------------------- */
+    .inner_t_img .img_center {
+        margin-left: -33px;
+    }
+
+    /* ------------- team area end --------------------- */
+}
+
+/* ============================================================
+                     extra largr area end
+===============================================================*/
+/* ============================================================
+                        largr area start
+===============================================================*/
+@media(min-width: 992px) and (max-width: 1199.99px) {
+    .navbar {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+        bottom: -27px;
+    }
+
+    .ban-content p {
+        padding: 0;
+        margin-bottom: 25px;
+    }
+
+    /* ------------- banner area end ----------------------- */
+    /* ------------- about area start ----------------------- */
+    .header p {
+        padding: 0;
+    }
+
+    .top-about,
+    .left_about,
+    .right_about,
+    .bottom_about {
+        padding: 30px 20px;
+    }
+
+    .top-about p,
+    .left_about p,
+    .right_about p,
+    .bottom_about p {
+        margin-top: 15px;
+    }
+
+    .middle_about {
+        height: 260px;
+        width: 260px;
+    }
+
+    .about_img {
+        width: 230px;
+        height: 230px;
+    }
+
+    .main_left_about .doot {
+        right: -53px;
+    }
+
+    .main_right_about .doot {
+        left: -53px;
+    }
+
+    /* ------------- about area end ----------------------- */
+
+    /* ------------- portfolio area start ----------------------- */
+    .port_header {
+        margin-top: 80px;
+    }
+
+    /* ------------- portfolio area end ----------------------- */
+
+    /* ------------- service area start ----------------------- */
+    .serv_head p {
+        padding: 0;
+    }
+
+    .serv_right {
+        padding: 25px 30px;
+    }
+
+    .inner_serv.slick-center .service .serv_img {
+        transform: scale(1.3);
+    }
+
+    .line {
+        top: 95px;
+    }
+
+    .top_btn {
+        top: 55px;
+    }
+
+    .bottom_btn {
+        bottom: -35px;
+    }
+
+    /* ------------- service area end ----------------------- */
+    /* ------------- team area start --------------------- */
+    .inner_t_img .img_center {
+        margin-left: -60px;
+    }
+
+    /* ------------- team area end --------------------- */
+    /* ------------- comment area start --------------------- */
+    .img_slider {
+        margin-left: 20px !important;
+    }
+
+    .main_c_slider {
+        margin-top: 70px;
+    }
+
+    #comment .c_line img {
+        left: 70px;
+    }
+
+    .c_top_btn i {
+        left: 50px;
+    }
+
+    .c_bottom_btn i {
+        left: 70px;
+        bottom: -515px;
+    }
+
+    /* ------------ comment area end ------------------------ */
+    /* ------------ footer area start ------------------------ */
+    .foot_text a {
+        padding: 0 12px;
+    }
+
+    /* ------------ footer area end ------------------------ */
+}
+
+/* ============================================================
+                        largr area end
+===============================================================*/
+/* ============================================================
+                        medium area start
+===============================================================*/
+@media(min-width: 768px) and (max-width: 991.99px) {
+    .navbar-brand img {
+        transform: scale(0.9);
+    }
+
+    .toggler .bar i {
+        font-size: 22px;
+    }
+
+    .navbar {
+        padding-top: 5px;
+        padding-bottom: 5px;
+        position: static;
+        background: #000000;
+    }
+
+    .ban-content p {
+        line-height: 22px;
+        margin-bottom: 20px;
+        padding: 0 70px;
+    }
+
+    .nxt_arrow {
+        display: none !important;
+    }
+
+    .prev_arrow {
+        display: none !important;
+    }
+
+    /* ------------ Banner area end ------------------------- */
+    /* ------------ about area start ------------------------- */
+    #about {
+        margin-bottom: 30px;
+    }
+
+    .header {
+        margin-top: -80px;
+    }
+
+    .header p {
+        padding: 0 40px;
+    }
+
+    .top-about .shape,
+    .left_about .shape,
+    .right_about .shape,
+    .bottom_about .shape {
+        display: none;
+    }
+
+    .doot {
+        display: none;
+    }
+
+    .top-about,
+    .left_about,
+    .right_about,
+    .bottom_about {
+        padding: 25px 25px;
+    }
+
+    .top-about p,
+    .left_about p,
+    .right_about p,
+    .bottom_about p {
+        line-height: 22px;
+        margin-top: 15px;
+        padding: 0 55px;
+    }
+
+    .right_about {
+        text-align: center;
+    }
+
+    .middle_about {
+        max-height: 300px;
+        max-width: 300px;
+        margin: 20px auto !important;
+    }
+
+    .about_img {
+        max-width: 260px;
+        max-height: 260px;
+    }
+
+    .top-about:hover,
+    .left_about:hover,
+    .right_about:hover,
+    .bottom_about:hover {
+        filter: none;
+    }
+
+    /* ------------ about area end ------------------------- */
+
+    /* ------------ portfolio area start ------------------------- */
+    #portfolio {
+        margin-top: -100px;
+        padding-bottom: 30px;
+    }
+
+    .port_header {
+        margin-top: 50px;
+    }
+
+    .img2 {
+        margin-bottom: 30px;
+    }
+
+    .port_header p {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    /* ------------ portfolio area end ------------------------- */
+
+    /* ------------ service area start ------------------------- */
+    #service {
+        margin-bottom: -90px;
+    }
+
+    .serv_head {
+        margin-top: -80px;
+        margin-bottom: 0;
+    }
+
+    .serv_head p {
+        padding: 0 40px;
+    }
+
+    #service .top_btn {
+        display: none !important;
+    }
+
+    #service .bottom_btn {
+        display: none !important;
+    }
+
+    .line {
+        display: none;
+    }
+
+    .service {
+        flex-direction: column !important;
+    }
+
+    .serv_left,
+    .serv_right {
+        width: 100%;
+        padding: 24px 0;
+        margin-top: 10px;
+    }
+
+    .serv_mid {
+        width: 100%;
+    }
+
+    .inner_serv:nth-child(odd) .service .serv_left h3 {
+        text-align: center !important;
+    }
+
+    .inner_serv:nth-child(odd) .service .serv_right p {
+        text-align: center !important;
+    }
+
+    .inner_serv.slick-center .service .serv_right {
+        filter: none;
+    }
+
+    .inner_serv.slick-center .service .serv_img {
+        transform: scale(1);
+    }
+
+    .serv_right .shape,
+    .serv_left .shape {
+        display: none;
+    }
+
+    .serv_right p {
+        line-height: 20px;
+        padding: 0 100px;
+    }
+
+    /* ------------ service area end ------------------------- */
+
+    /* ------------ comment area start ------------------------- */
+    #comment {
+        padding-top: 20px;
+        padding-bottom: 40px;
+    }
+
+    .c_top_btn {
+        display: none !important;
+    }
+
+    #comment .c_line {
+        display: none !important;
+    }
+
+    .main_img_slider {
+        width: 200px;
+        margin: 0 auto;
+    }
+
+    .img_slider.slick-center {
+        transform: scale(1);
+    }
+
+    .img_slider {
+        margin: 10px 50px !important;
+    }
+
+    #comment .c_bottom_btn {
+        display: none !important;
+    }
+
+
+    /* ------------ comment area end ------------------------- */
+
+    /* ------------ pricing area start ------------------------- */
+    #pricing {
+        margin-bottom: -25px;
+    }
+
+    .price_header {
+        margin-top: -80px;
+    }
+
+    .price_header p {
+        padding-right: 40px;
+        padding-left: 40px;
+    }
+
+    .main_price {
+        margin-bottom: 30px;
+    }
+
+    /* ------------ pricing area end ------------------------- */
+
+    /* ------------ counter area start ------------------------- */
+    #counter {
+        margin-top: -80px;
+        padding-top: 70px;
+        padding-bottom: 30px;
+    }
+
+    .main_counter {
+        justify-content: center;
+        transform: rotate(0deg);
+        flex-wrap: wrap;
+    }
+
+    .counter_content {
+        transform: rotate(0deg);
+    }
+
+    .counter_inner {
+        margin-bottom: 30px;
+        margin-right: 15px;
+        margin-left: 15px;
+    }
+
+
+    /* ------------ counter area end ------------------------- */
+
+    /* ------------ team area start ------------------------- */
+    #team {
+        padding-bottom: 60px;
+    }
+
+    .team_header {
+        margin-top: -80px;
+    }
+
+    .team_header p {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    /* ------------ team area end ------------------------- */
+
+    /* ------------ brand area start ------------------------- */
+    #brand {
+        padding-top: 60px;
+        padding-bottom: 50px;
+        margin-top: -135px;
+    }
+
+    /* ------------ brand area end ------------------------- */
+
+    /* ------------ footer area start ------------------------- */
+    #footer {
+        margin-top: -100px;
+        padding-top: 10px;
+    }
+
+    #footer::after {
+        top: 75px;
+    }
+
+    .footer_top {
+        margin-bottom: 45px;
+    }
+
+    .foot_text p {
+        margin-top: 10px;
+    }
+
+    .foot_text {
+        margin-bottom: 30px;
+    }
+
+    .foot_text a {
+        margin-top: 5px;
+    }
+
+    .foot_icon a i {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        margin: 0 5px;
+    }
+
+    .foot_icon {
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+
+    .foot_icon h4 {
+        margin-bottom: 15px;
+    }
+
+    .text_after::after {
+        display: none;
+    }
+
+    /* ------------ footer area end ------------------------- */
+
+}
+
+/* ============================================================
+                        medium area end
+===============================================================*/
+/* ============================================================
+                        small area start
+===============================================================*/
+@media(min-width: 576px) and (max-width: 767.99px) {
+    .navbar-brand img {
+        transform: scale(0.8);
+    }
+
+    .toggler .bar i {
+        font-size: 20px;
+    }
+
+    .navbar {
+        padding-top: 5px;
+        padding-bottom: 5px;
+        position: static;
+        background: #000000;
+    }
+
+    .ban-content h1 {
+        font-size: 45px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .ban-content p {
+        font-size: 14px;
+        line-height: 20px;
+        margin-bottom: 20px;
+    }
+
+    .ban-content h2 {
+        font-size: 36px;
+    }
+
+    .nxt_arrow {
+        display: none !important;
+    }
+
+    .prev_arrow {
+        display: none !important;
+    }
+
+    .ban-button button {
+        padding: 8px 20px;
+        font-size: 14px;
+        margin-right: 7px;
+    }
+
+    /* ------------ Banner area end ------------------------- */
+    /* ------------ about area start ------------------------- */
+    #about {
+        margin-bottom: 30px;
+    }
+
+    .header {
+        margin-top: -80px;
+    }
+
+    .header p {
+        padding: 0 30px;
+    }
+
+    .top-about .shape,
+    .left_about .shape,
+    .right_about .shape,
+    .bottom_about .shape {
+        display: none;
+    }
+
+    .doot {
+        display: none;
+    }
+
+    .top-about,
+    .left_about,
+    .right_about,
+    .bottom_about {
+        padding: 25px 25px;
+    }
+
+    .top-about p,
+    .left_about p,
+    .right_about p,
+    .bottom_about p {
+        line-height: 20px;
+        margin-top: 15px;
+    }
+
+    .right_about {
+        text-align: center;
+    }
+
+    .middle_about {
+        max-height: 300px;
+        max-width: 300px;
+        margin: 20px auto !important;
+    }
+
+    .about_img {
+        max-width: 260px;
+        max-height: 260px;
+    }
+
+    .top-about:hover,
+    .left_about:hover,
+    .right_about:hover,
+    .bottom_about:hover {
+        filter: none;
+    }
+
+    /* ------------ about area end ------------------------- */
+
+    /* ------------ portfolio area start ------------------------- */
+    #portfolio {
+        margin-top: -100px;
+        padding-bottom: 30px;
+    }
+
+    .port_header {
+        margin-top: 50px;
+    }
+
+    .img2 {
+        margin-bottom: 30px;
+    }
+
+    .port_header p {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    /* ------------ portfolio area end ------------------------- */
+
+    /* ------------ service area start ------------------------- */
+    #service {
+        margin-bottom: -90px;
+    }
+
+    .serv_head {
+        margin-top: -80px;
+        margin-bottom: 0;
+    }
+
+    .serv_head p {
+        padding: 0 30px;
+    }
+
+    #service .top_btn {
+        display: none !important;
+    }
+
+    #service .bottom_btn {
+        display: none !important;
+    }
+
+    .line {
+        display: none;
+    }
+
+    .service {
+        flex-direction: column !important;
+    }
+
+    .serv_left,
+    .serv_right {
+        width: 100%;
+        padding: 24px 0;
+        margin-top: 10px;
+    }
+
+    .serv_mid {
+        width: 100%;
+    }
+
+    .inner_serv:nth-child(odd) .service .serv_left h3 {
+        text-align: center !important;
+    }
+
+    .inner_serv:nth-child(odd) .service .serv_right p {
+        text-align: center !important;
+    }
+
+    .inner_serv.slick-center .service .serv_right {
+        filter: none;
+    }
+
+    .inner_serv.slick-center .service .serv_img {
+        transform: scale(1);
+    }
+
+    .serv_right .shape,
+    .serv_left .shape {
+        display: none;
+    }
+
+    .serv_right p {
+        line-height: 20px;
+        padding: 0 25px;
+    }
+
+    /* ------------ service area end ------------------------- */
+
+    /* ------------ comment area start ------------------------- */
+    #comment {
+        padding-top: 10px;
+        padding-bottom: 40px;
+    }
+
+    .c_top_btn {
+        display: none !important;
+    }
+
+    #comment .c_line {
+        display: none !important;
+    }
+
+    .main_img_slider {
+        width: 200px;
+        margin: 0 auto;
+    }
+
+    .img_slider.slick-center {
+        transform: scale(1);
+    }
+
+    .img_slider {
+        margin: 10px 50px !important;
+    }
+
+    #comment .c_bottom_btn {
+        display: none !important;
+    }
+
+
+    /* ------------ comment area end ------------------------- */
+
+    /* ------------ pricing area start ------------------------- */
+    #pricing {
+        margin-bottom: -25px;
+    }
+
+    .price_header {
+        margin-top: -80px;
+    }
+
+    .price_header p {
+        padding-right: 30px;
+        padding-left: 30px;
+    }
+
+    .main_price {
+        margin-bottom: 30px;
+    }
+
+    /* ------------ pricing area end ------------------------- */
+
+    /* ------------ counter area start ------------------------- */
+    #counter {
+        margin-top: -80px;
+        padding-top: 70px;
+        padding-bottom: 30px;
+    }
+
+    .main_counter {
+        justify-content: center;
+        transform: rotate(0deg);
+        flex-wrap: wrap;
+    }
+
+    .counter_content {
+        transform: rotate(0deg);
+    }
+
+    .counter_inner {
+        margin-bottom: 30px;
+        margin-right: 7px;
+        margin-left: 7px;
+    }
+
+
+    /* ------------ counter area end ------------------------- */
+
+    /* ------------ team area start ------------------------- */
+    #team {
+        padding-bottom: 60px;
+    }
+
+    .inner_t_img .img_center {
+        margin-left: -48px;
+    }
+
+    .team_header {
+        margin-top: -80px;
+    }
+
+    .team_header p {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    /* ------------ team area end ------------------------- */
+
+    /* ------------ brand area start ------------------------- */
+    #brand {
+        padding-top: 60px;
+        padding-bottom: 50px;
+        margin-top: -135px;
+    }
+
+    /* ------------ brand area end ------------------------- */
+
+    /* ------------ footer area start ------------------------- */
+    #footer {
+        margin-top: -100px;
+        padding-top: 10px;
+    }
+
+    #footer::after {
+        top: 80px;
+    }
+
+    .footer_top {
+        margin-bottom: 45px;
+    }
+
+    .foot_text p {
+        margin-top: 10px;
+    }
+
+    .foot_text {
+        margin-bottom: 30px;
+    }
+
+    .foot_text a {
+        margin-top: 5px;
+    }
+
+    .foot_icon a i {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        margin: 0 5px;
+    }
+
+    .foot_icon {
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+
+    .foot_icon h4 {
+        margin-bottom: 15px;
+    }
+
+    .text_after::after {
+        display: none;
+    }
+
+    /* ------------ footer area end ------------------------- */
+
+}
+
+/* ============================================================
+                        small area end
+===============================================================*/
+/* ============================================================
+                       extra small area start
+===============================================================*/
+
+
+@media (max-width: 575.99px) {
+    .navbar-brand img {
+        transform: scale(0.7);
+    }
+
+    .navbar {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        position: static;
+        background: #111111;
+    }
+
+    .ban-content h1 {
+        font-size: 23px;
+        margin-top: 8px;
+        margin-bottom: 5px;
+    }
+
+    .ban-content p {
+        font-size: 13px;
+        line-height: 14px;
+        margin-bottom: 8px;
+    }
+
+    .ban-content h2 {
+        font-size: 18px;
+    }
+
+    .nxt_arrow {
+        display: none !important;
+    }
+
+    .prev_arrow {
+        display: none !important;
+    }
+
+    .ban-button button {
+        padding: 3px 8px;
+        font-size: 13px;
+        margin-right: 7px;
+    }
+
+    .ban-bottom-shape {
+        display: none;
+    }
+
+    /* ------------ Banner area end ------------------------- */
+
+    /* ------------ about area start ------------------------- */
+    #about {
+        margin-bottom: 30px;
+    }
+
+    .header {
+        margin-top: 25px;
+    }
+
+    .top-about .shape,
+    .left_about .shape,
+    .right_about .shape,
+    .bottom_about .shape {
+        display: none;
+    }
+
+    .doot {
+        display: none;
+    }
+
+    .top-about,
+    .left_about,
+    .right_about,
+    .bottom_about {
+        padding: 25px 25px;
+    }
+
+    .top-about p,
+    .left_about p,
+    .right_about p,
+    .bottom_about p {
+        line-height: 20px;
+        margin-top: 15px;
+    }
+
+    .right_about {
+        text-align: center;
+    }
+
+    .middle_about {
+        max-height: 300px;
+        max-width: 300px;
+        margin: 20px auto !important;
+    }
+
+    .about_img {
+        max-width: 260px;
+        max-height: 260px;
+    }
+
+    .top-about:hover,
+    .left_about:hover,
+    .right_about:hover,
+    .bottom_about:hover {
+        filter: none;
+    }
+
+    .about_btm_shape {
+        display: none;
+    }
+
+    /* ------------ about area end ------------------------- */
+
+    /* ------------ portfolio area start ------------------------- */
+    #portfolio {
+        margin-top: 0;
+        padding-bottom: 15px;
+    }
+
+    .port_header {
+        margin-top: 30px;
+    }
+
+    .img2 {
+        margin-bottom: 30px;
+    }
+
+    .port_btm_shape {
+        display: none;
+    }
+
+    /* ------------ portfolio area end ------------------------- */
+
+    /* ------------ service area start ------------------------- */
+    .serv_head {
+        margin-top: 30px;
+        margin-bottom: 0;
+    }
+
+    #service .top_btn {
+        display: none !important;
+    }
+
+    #service .bottom_btn {
+        display: none !important;
+    }
+
+    .line {
+        display: none;
+    }
+
+    .service {
+        flex-direction: column !important;
+    }
+
+    .serv_left,
+    .serv_right {
+        width: 100%;
+        padding: 24px 0;
+        margin-top: 10px;
+    }
+
+    .serv_mid {
+        width: 100%;
+    }
+
+    .inner_serv:nth-child(odd) .service .serv_left h3 {
+        text-align: center !important;
+    }
+
+    .inner_serv:nth-child(odd) .service .serv_right p {
+        text-align: center !important;
+    }
+
+    .inner_serv.slick-center .service .serv_right {
+        filter: none;
+    }
+
+    .inner_serv.slick-center .service .serv_img {
+        transform: scale(1);
+    }
+
+    .serv_right .shape,
+    .serv_left .shape {
+        display: none;
+    }
+
+    .serv_right p {
+        line-height: 20px;
+        padding: 0 25px;
+    }
+
+    .serv_btm_shape {
+        display: none;
+    }
+
+    /* ------------ service area end ------------------------- */
+
+    /* ------------ comment area start ------------------------- */
+    #comment {
+        padding-top: 0;
+        padding-bottom: 20px;
+    }
+
+    .c_top_btn {
+        display: none !important;
+    }
+
+    #comment .c_line {
+        display: none !important;
+    }
+
+    .main_img_slider {
+        width: 200px;
+        margin: 0 auto;
+    }
+
+    .img_slider.slick-center {
+        transform: scale(1);
+    }
+
+    .img_slider {
+        margin: 10px 50px !important;
+    }
+
+    #comment .c_bottom_btn {
+        display: none !important;
+    }
+
+    .comment_btm_shape {
+        display: none;
+    }
+
+    /* ------------ comment area end ------------------------- */
+
+    /* ------------ pricing area start ------------------------- */
+
+    .price_header {
+        margin-top: 30px;
+    }
+
+    .main_price {
+        margin-bottom: 30px;
+    }
+
+    .pricing_btm_shape {
+        display: none;
+    }
+
+    /* ------------ pricing area end ------------------------- */
+
+    /* ------------ counter area start ------------------------- */
+    #counter {
+        margin-top: 0;
+        padding-top: 40px;
+        padding-bottom: 10px;
+    }
+
+    .main_counter {
+        justify-content: center;
+        transform: rotate(0deg);
+        flex-wrap: wrap;
+    }
+
+    .counter_content {
+        transform: rotate(0deg);
+    }
+
+    .counter_inner {
+        margin-bottom: 30px;
+        margin-left: 12px;
+        margin-right: 12px;
+    }
+
+    .counter_btm_shape {
+        display: none;
+    }
+
+    /* ------------ counter area end ------------------------- */
+
+    /* ------------ team area start ------------------------- */
+    #team {
+        padding-bottom: 40px;
+    }
+
+    .team_header {
+        margin-top: 30px;
+    }
+
+    .team_btm_shape {
+        display: none;
+    }
+
+    /* ------------ team area end ------------------------- */
+
+    /* ------------ brand area start ------------------------- */
+    #brand {
+        padding-top: 40px;
+        padding-bottom: 30px;
+        margin-top: 0;
+    }
+
+    .brands_wrapper {
+        transform: rotate(0deg);
+    }
+
+    .brands img {
+        transform: rotate(0deg);
+    }
+
+    .brand_btm_shape {
+        display: none;
+    }
+
+    /* ------------ brand area end ------------------------- */
+
+    /* ------------ footer area start ------------------------- */
+    #footer {
+        margin-top: 0;
+        padding-top: 30px;
+    }
+
+    #footer::after {
+        transform: rotate(0deg);
+    }
+
+    .footer_top {
+        margin-bottom: 45px;
+    }
+
+    .foot_text p {
+        margin-top: 10px;
+    }
+
+    .foot_text {
+        margin-bottom: 30px;
+    }
+
+    .foot_text a {
+        margin-top: 5px;
+    }
+
+    .foot_icon a i {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        margin: 0 5px;
+    }
+
+    .foot_icon {
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+
+    .foot_icon h4 {
+        margin-bottom: 15px;
+    }
+
+    .text_after::after {
+        display: none;
+    }
+
+    /* ------------ footer area end ------------------------- */
+}
+
+@media(min-width: 500px) and (max-width: 575.99px) {
+    .foot_text a {
+        padding: 0 80px;
+    }
+
+    .ban-content h1 {
+        font-size: 25px;
+        margin-top: 10px;
+        margin-bottom: 7px;
+    }
+
+    .ban-content h2 {
+        font-size: 20px;
+    }
+}
+
+/* ============================================================
+                       extra small area end
+===============================================================*/
